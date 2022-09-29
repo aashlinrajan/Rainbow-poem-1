@@ -8,3 +8,4 @@ green
 yellow
 red
 These are the colors of the rainbow
+hi how was the day
